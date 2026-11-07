@@ -20,3 +20,7 @@ function extractDigits(value){
 
   return Number(digits);
 }
+
+window.checkStringLength = checkStringLength;
+window.isPalindrome = isPalindrome;
+window.extractDigits = extractDigits;
